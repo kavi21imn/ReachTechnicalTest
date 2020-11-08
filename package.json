@@ -1,0 +1,22 @@
+{
+  "name": "cyp-comp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.5.0",
+    "cypress-downloadfile": "^1.2.0"
+  },
+  
+  "dependencies": {
+    "open": "^7.3.0"
+  }
+  
+   
+}
