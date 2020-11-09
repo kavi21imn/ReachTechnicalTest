@@ -1,0 +1,12 @@
+npm install
+
+
+ open in  cypress Terminal
+
+npm run cypress:open
+
+In Test Runner
+
+Click on the fetch_companies
+
+It'll start, fetch companies, store logos in images/ and output in company.json
