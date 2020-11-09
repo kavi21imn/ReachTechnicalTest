@@ -9,14 +9,20 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": {    
     "cypress": "^5.5.0",
     "cypress-downloadfile": "^1.2.0"
   },
   
-  "dependencies": {
+  "dependencies": {   
+
     "open": "^7.3.0"
-  }
-  
+
+  },
+  "author":"The CodingTrain",
+  "Licence": "MIT",
+  "devDependencies":{
+    "jest":"22.1.4"
+  } 
    
 }
